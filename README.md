@@ -53,4 +53,4 @@ Utils
 
 To install tia, simply:
 
-    $ pip install relative_path_to_tia3-0.3.0.tar.gz
+    $ pip install relative_path_to/tia3-0.3.0.tar.gz
