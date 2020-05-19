@@ -1,5 +1,5 @@
 # tia3
-Python3 supported version of tia library
+Python3 supported version of tia library.
 All credit to original author
 
 ## tia: Toolkit for integration and analysis
@@ -53,5 +53,6 @@ Utils
 
 To install tia, simply:
 
-    $ pip install tia3
-
+    $ pip install relative_path_to_tia3-0.3.0.tar.gz
+Or:    
+    $ pip install tia2to3
