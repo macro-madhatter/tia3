@@ -2,7 +2,7 @@
 Python3 supported version of tia library.
 All credit to original author
 
-## tia: Toolkit for integration and analysis
+## [tia]: Toolkit for integration and analysis (https://github.com/bpsmith/tia)
 
 ## Overview
 TIA is a toolkit that provides bloomberg data access, easier pdf generation, backtesting functionality,
