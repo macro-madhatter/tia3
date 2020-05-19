@@ -1,13 +1,13 @@
 # tia3
-Python3 supported version of original [tia] (https://github.com/bpsmith/tia) library
+Python3 supported version of original [tia](https://github.com/bpsmith/tia) library
 All credit to original author
 
-## tia: Toolkit for integration and analysis 
+## tia: Toolkit for integration and analysis
 
 ## Overview
 TIA is a toolkit that provides bloomberg data access, easier pdf generation, backtesting functionality,
 technical analysis functionality, return analysis, and few windows utils.
-
+    [v3](sdsadasd.com)
 ## Examples
 
 Bloomberg API
@@ -34,7 +34,7 @@ Utils
 
 
 ## Dependencies
-- Python 3.6
+- Python 2.7
 
 ### Mandatory
 - [numpy](http://www.numpy.org/)
@@ -53,4 +53,5 @@ Utils
 
 To install tia, simply:
 
-    $ pip install relative_path_to/tia3-0.3.0.tar.gz
+    $ pip install tia
+
